@@ -15299,7 +15299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28f77347-5d1c-42fd-9575-64a25c153326")
-		(property "Reference" "C19"
+		(property "Reference" "C17"
 			(at 403.86 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15385,7 +15385,7 @@
 		(instances
 			(project "Human_Tracker"
 				(path "/21992c97-7c29-4ade-9a85-42ee1fb0a3a3"
-					(reference "C19")
+					(reference "C17")
 					(unit 1)
 				)
 			)
