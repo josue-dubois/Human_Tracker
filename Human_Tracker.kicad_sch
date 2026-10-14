@@ -10778,7 +10778,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 222.25) (xy 254 222.25)
+			(xy 257.81 222.25) (xy 283.21 222.25)
 		)
 		(stroke
 			(width 0)
@@ -12428,26 +12428,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 222.25) (xy 283.21 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5574814-f0eb-4a4d-ba1f-cb680511598f")
-	)
-	(wire
-		(pts
-			(xy 269.24 219.71) (xy 283.21 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5861855-0aa3-4c7b-b6e4-c1359b2d5408")
-	)
-	(wire
-		(pts
 			(xy 302.26 80.01) (xy 302.26 87.63)
 		)
 		(stroke
@@ -12978,7 +12958,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 219.71) (xy 264.16 219.71)
+			(xy 267.97 219.71) (xy 283.21 219.71)
 		)
 		(stroke
 			(width 0)
@@ -13307,7 +13287,7 @@
 		(uuid "7d62f05a-ae95-4c15-9129-75527556a600")
 	)
 	(label "D-"
-		(at 252.73 222.25 180)
+		(at 257.81 222.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13477,7 +13457,7 @@
 		(uuid "c5cdfdfe-5a6b-40e5-904d-c08d766bc221")
 	)
 	(label "D+"
-		(at 262.89 219.71 180)
+		(at 267.97 219.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19227,97 +19207,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom_Device:R")
-		(at 266.7 219.71 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7807428a-09d3-40a2-84a8-d405e292ad8f")
-		(property "Reference" "R10"
-			(at 266.7 214.63 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 266.7 217.17 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "lcsc_footprints:C17414_R0805"
-			(at 266.7 221.488 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 266.7 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 266.7 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C17561"
-			(at 266.7 219.71 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f67b769e-6dff-47aa-ad0a-2d29739088a8")
-		)
-		(pin "1"
-			(uuid "ffa941cd-4fcd-45a4-80fd-abb3a72659b3")
-		)
-		(instances
-			(project "Human_Tracker"
-				(path "/21992c97-7c29-4ade-9a85-42ee1fb0a3a3"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 419.1 233.68 180)
 		(unit 1)
@@ -22266,97 +22155,6 @@
 			(project "Human_Tracker"
 				(path "/21992c97-7c29-4ade-9a85-42ee1fb0a3a3"
 					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Custom_Device:R")
-		(at 256.54 222.25 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "be33c8b2-9209-4297-b06e-e0d6fd613a27")
-		(property "Reference" "R9"
-			(at 256.54 217.17 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 256.54 219.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "lcsc_footprints:C17414_R0805"
-			(at 256.54 224.028 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 256.54 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C17561"
-			(at 256.54 222.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3aa1d69b-8729-4836-9275-dcca30021cd3")
-		)
-		(pin "1"
-			(uuid "c83bd7fe-d666-4a59-990c-9cdba3ffa090")
-		)
-		(instances
-			(project "Human_Tracker"
-				(path "/21992c97-7c29-4ade-9a85-42ee1fb0a3a3"
-					(reference "R9")
 					(unit 1)
 				)
 			)

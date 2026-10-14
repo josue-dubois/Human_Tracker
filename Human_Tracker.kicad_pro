@@ -537,22 +537,22 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
-        "via_diameter": 0.6,
+        "via_diameter": 0.66,
         "via_drill": 0.3
       },
       {
         "clearance": 0.2,
         "diff_pair_gap": 0.3,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.39,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.38,
+        "track_width": 0.39,
         "tuning_profile": "",
-        "via_diameter": 0.6,
+        "via_diameter": 0.66,
         "via_drill": 0.3
       }
     ],
@@ -589,6 +589,14 @@
       {
         "netclass": "USB",
         "pattern": "/D-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/DP"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/DN"
       }
     ]
   },

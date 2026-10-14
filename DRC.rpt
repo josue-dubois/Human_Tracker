@@ -1,0 +1,355 @@
+** Drc report for Human_Tracker.kicad_pcb **
+** Created on 2026-10-08T19:05:32 **
+** Report includes: Errors **
+
+** Found 109 DRC violations **
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(168.0000 mm, 56.5000 mm): Via [/UWB_WAKEUP] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(168.0000 mm, 63.0000 mm): Via [/UWB_WAKEUP] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(167.5000 mm, 62.5000 mm): Via [/SCLK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(164.0000 mm, 58.1546 mm): Via [/SCLK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(168.5000 mm, 62.5000 mm): Via [/UWB_INT] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(168.5000 mm, 56.0000 mm): Via [/UWB_INT] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(169.1785 mm, 31.2259 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(168.9584 mm, 33.6219 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(177.7480 mm, 66.7480 mm): Via [/UWB_RST] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(109.4361 mm, 26.3071 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(109.4642 mm, 29.8476 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(246.6682 mm, 56.5809 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(229.6128 mm, 58.9834 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(52.1067 mm, 54.3373 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(157.9318 mm, 70.8649 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(69.2070 mm, 61.5332 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(124.6778 mm, 58.1000 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(115.1153 mm, 50.0351 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(165.3185 mm, 70.7513 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(105.7832 mm, 40.3041 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(197.3548 mm, 30.4616 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(123.7646 mm, 62.6582 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(129.9442 mm, 58.0885 mm): Via [+5V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(147.9286 mm, 64.0085 mm): Via [Net-(USB1-CC1)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(146.0009 mm, 61.6886 mm): Via [Net-(USB1-CC1)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(155.1518 mm, 68.5957 mm): Via [Net-(USB1-CC2)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(129.5123 mm, 42.3532 mm): Via [/UWB_CS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(113.2465 mm, 42.2907 mm): Via [/UWB_CS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(175.5000 mm, 68.0000 mm): Via [/UWB_CS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(147.5130 mm, 56.4870 mm): Via [/UWB_CS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(127.8399 mm, 41.7407 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(244.6498 mm, 46.6598 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(130.8678 mm, 46.1298 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(194.8222 mm, 28.6484 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(67.2456 mm, 61.2215 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(62.2005 mm, 66.9667 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(92.4030 mm, 32.6810 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(240.9689 mm, 52.3126 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(54.2785 mm, 54.4586 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(245.5777 mm, 52.2807 mm): Via [+3.3V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(127.0227 mm, 61.5387 mm): Via [+3.6V] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(126.2181 mm, 63.4832 mm): Via [Net-(U1-VSENSE)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(125.1505 mm, 56.3718 mm): Via [Net-(U1-VSENSE)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(64.5499 mm, 60.5069 mm): Via [/SCL] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(114.3658 mm, 72.8665 mm): Via [/SCL] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(65.6111 mm, 65.5568 mm): Via [/SCL] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(202.4482 mm, 38.4228 mm): Via [/ICS_SD] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(107.4488 mm, 43.6926 mm): Via [/ICS_SD] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(242.8934 mm, 49.7175 mm): Via [/ICS_SD] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(61.9443 mm, 61.2512 mm): Via [/SDA] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(125.6181 mm, 60.8033 mm): Via [Net-(U1-PH)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(123.1501 mm, 60.3012 mm): Via [Net-(U1-PH)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(123.6263 mm, 46.4028 mm): Via [Net-(U4-EN)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(106.7384 mm, 42.8769 mm): Via [/ICS_WS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(205.1759 mm, 37.6623 mm): Via [/ICS_WS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(244.3421 mm, 50.6175 mm): Via [/ICS_WS] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(194.0495 mm, 30.7138 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(54.3520 mm, 51.3800 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(237.4782 mm, 48.0295 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(65.8636 mm, 50.5637 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(142.7813 mm, 39.0405 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(144.4860 mm, 40.4723 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(100.9515 mm, 50.5637 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(180.3482 mm, 38.2904 mm): Via [/ICS_SCK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(170.1617 mm, 29.9316 mm): Via [Net-(U6-EN)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(171.1612 mm, 25.8975 mm): Via [Net-(U6-EN)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(181.5980 mm, 66.5311 mm): Via [/UWB_RST] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(79.1527 mm, 45.7091 mm): Via [/UWB_RST] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(184.7066 mm, 73.7875 mm): Via [/MOSI] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(199.9394 mm, 66.9849 mm): Via [/SCLK] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(196.7635 mm, 72.8086 mm): Via [/MISO] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(200.5842 mm, 70.0538 mm): Via [/UWB_WAKEUP] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(136.3484 mm, 43.7667 mm): Via [/UWB_WAKEUP] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(112.8878 mm, 43.7705 mm): Via [/UWB_WAKEUP] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(91.7356 mm, 37.6223 mm): Via [Net-(WIRELM1-GPIO3)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(99.5000 mm, 36.0000 mm): Via [Net-(WIRELM1-GPIO3)] on F.Cu - B.Cu
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(147.0000 mm, 65.6800 mm): PTH pad A1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(147.8600 mm, 65.6800 mm): PTH pad A4 [+5V] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(148.7000 mm, 65.6800 mm): PTH pad A5 [Net-(USB1-CC1)] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(149.5600 mm, 65.6800 mm): PTH pad A6 [/DP] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(150.4000 mm, 65.6800 mm): PTH pad A7 [/DN] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(151.2600 mm, 65.6800 mm): PTH pad A8 [unconnected-(USB1-SBU1-PadA8)] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(152.1000 mm, 65.6800 mm): PTH pad A9 [+5V] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(152.9600 mm, 65.6800 mm): PTH pad A12 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(152.9600 mm, 67.0300 mm): PTH pad B1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(152.1100 mm, 67.0300 mm): PTH pad B4 [+5V] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(151.2600 mm, 67.0300 mm): PTH pad B5 [Net-(USB1-CC2)] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(150.4100 mm, 67.0300 mm): PTH pad B6 [/DP] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(149.5600 mm, 67.0300 mm): PTH pad B7 [/DN] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(148.7100 mm, 67.0300 mm): PTH pad B8 [unconnected-(USB1-SBU2-PadB8)] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(147.8600 mm, 67.0300 mm): PTH pad B9 [+5V] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1250 mm)
+    Rule: JLC min annular ring; error
+    @(147.0000 mm, 67.0300 mm): PTH pad B12 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(145.6500 mm, 66.6600 mm): PTH pad S1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(145.6500 mm, 70.0400 mm): PTH pad S1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(154.3100 mm, 66.6600 mm): PTH pad S1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,1500 mm)
+    Rule: JLC min annular ring; error
+    @(154.3100 mm, 70.0400 mm): PTH pad S1 [GND] of USB1
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,0000 mm)
+    Rule: JLC min annular ring; error
+    @(52.2000 mm, 49.6700 mm): PTH pad [<no net>] of U2
+[annular_width]: Annular width (rule 'JLC min annular ring' min annular width 0,1800 mm; actual 0,0000 mm)
+    Rule: JLC min annular ring; error
+    @(247.7962 mm, 49.7175 mm): PTH pad [<no net>] of U3
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0931 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(150.9300 mm, 60.1973 mm): Track [/D-] on F.Cu, length 1.2636 mm
+    @(150.5000 mm, 60.0000 mm): Track [/D+] on F.Cu, length 1.1395 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0987 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(151.7463 mm, 58.7446 mm): Track [/D+] on F.Cu, length 0.0091 mm
+    @(151.9327 mm, 59.1946 mm): Track [/D-] on F.Cu, length 1.4181 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(165.3713 mm, 57.8250 mm): Track [/D+] on F.Cu, length 1.3005 mm
+    @(164.6381 mm, 59.1946 mm): Track [/D-] on F.Cu, length 12.7053 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0636 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(150.9300 mm, 60.1973 mm): Track [/D-] on F.Cu, length 1.2636 mm
+    @(151.7463 mm, 58.7537 mm): Track [/D+] on F.Cu, length 1.7626 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(164.4517 mm, 58.7446 mm): Track [/D+] on F.Cu, length 12.7054 mm
+    @(151.9327 mm, 59.1946 mm): Track [/D-] on F.Cu, length 1.4181 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(165.3713 mm, 57.8250 mm): Track [/D+] on F.Cu, length 1.3005 mm
+    @(165.5576 mm, 58.2750 mm): Track [/D-] on F.Cu, length 1.3005 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(182.6740 mm, 59.3200 mm): Track [/D-] on F.Cu, length 1.4779 mm
+    @(181.6290 mm, 57.8250 mm): Track [/D+] on F.Cu, length 16.2577 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(182.6740 mm, 59.3200 mm): Track [/D-] on F.Cu, length 1.4779 mm
+    @(182.6740 mm, 56.7800 mm): Track [/D+] on F.Cu, length 1.4779 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0700 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(181.6290 mm, 58.2750 mm): Track [/D-] on F.Cu, length 16.0713 mm
+    @(182.6740 mm, 56.7800 mm): Track [/D+] on F.Cu, length 1.4779 mm
+[clearance]: Clearance violation (rule 'JLC min clearance (1 oz)' clearance 0,1000 mm; actual 0,0100 mm)
+    Rule: JLC min clearance (1 oz); error
+    @(182.6740 mm, 55.7956 mm): Track [/D+] on F.Cu, length 9.8096 mm
+    @(182.6740 mm, 54.2400 mm): PTH pad 12 [/LD2410_INT] of H2
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(150.0000 mm, 49.7388 mm): Footprint U7
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
